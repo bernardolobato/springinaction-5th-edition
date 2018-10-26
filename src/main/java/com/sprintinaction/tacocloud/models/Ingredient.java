@@ -1,4 +1,4 @@
-package com.sprintinaction.tacocloud;
+package com.sprintinaction.tacocloud.models;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
